@@ -1,6 +1,7 @@
 # Design Patterns 🎯
 
-Vue 3 + TypeScript + Vite를 사용하여 구현한 **9가지 디자인 패턴** 데모 프로젝트입니다.
+- Vue 3 + TypeScript + Vite를 사용하여 구현한 **9가지 디자인 패턴** 데모 프로젝트입니다.
+- 6가지 예제들은 examples폴더에 넣어두었고, 나머지 3개 예제들은 examples2 폴더에 넣어 두었습니다.
 
 ## 🚀 기술 스택
 
